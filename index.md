@@ -12,14 +12,14 @@ As hobbies, I spend a lot of time playing football casually and competitively (W
 | Projects      | Tag | Type     |
 | :---        |    :----:   |          ---: |
 | BI Digital Transformation | `BI`, `DE`       | Professional   |
-| Cryptocurrency forecasting | `DL`       | Educational   |
+| [Cryptocurrency forecasting](Forecasting-Cryptocurrency-Prices-Time-Series) | `DL`       | Educational   |
 | Customer Segmentation for Marketing | `ML`       | Educational   |
 | E-commerce Operations Dashboard | `BI`, `DE`, `Visualization`       | Educational   |
-| FIFA Dashboard visualization | `Visualization`       | Educational   |
+| [FIFA Dashboard visualization](Visualization:-FOOTBALL-GENERATIONS-IN-COMPARISION) | `Visualization`       | Educational   |
 | Forecasting Model for multi-stores company | `ML`, `MLOps`  | Educational  |
-| Income prediction modelling | `ML` | Educational   |
-| Market Basket Analysis | `ML`, `MLOps` | Educational   |
-| Metrics for Machine Translation | `DL`, `NLP`      | Educational   |
+| [Income prediction modelling](Predictive-modeling) | `ML` | Educational   |
+| [Market Basket Analysis](Market-Basket-Analysis:-THE-FAMOUS-INSTACART-PROBLEM) | `ML`, `MLOps` | Educational   |
+| [Metrics for Machine Translation](Machine-translation) | `DL`, `NLP`      | Educational   |
 | Online shop database design  | `DE` | Educational   |
 | Supply Chain Operations excellence | `Management`, `SCM` | Professional   |
 | Recommendation system for Online Shopping | `ML` | Educational   |
@@ -40,7 +40,7 @@ As hobbies, I spend a lot of time playing football casually and competitively (W
 <div style="text-align: justify">The project objective is to explore the famous dataset Instacart. First we did Exploratory Data Analysis with different aspect such as buying patterns by product, hour of day, day of week and product category. The insights gathered from the analysis are then utilized to build the Apriori algorithm with 2 different approach: inter-department and intra-department to predict the basket of the customer</div><br>
 <div style="text-align: justify">Finally, a dashboard combining the EDA and a recommendation system built from the result of the Apriori algorithm is deployed to help the business stakeholder develop their customer experience.</div>
 <br>
-<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/MBA.jpg"/>
+<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/MBA.JPG?raw=true"/>
 
 ---
 ### Predictive modeling
@@ -55,7 +55,7 @@ As hobbies, I spend a lot of time playing football casually and competitively (W
 
 <b>Keywords:</b> GLMM, Logistic Regression, Random Forest, Gradient Boosting, and Stacking classifier.
 <br>
-<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/Predictive_modelling.jpg"/> 
+<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/Predictive_modelling.JPG?raw=true"/> 
 
 ---
 
@@ -70,10 +70,11 @@ As hobbies, I spend a lot of time playing football casually and competitively (W
 <div style="text-align: justify">The dashboard was created with Plotly, an interactive graphing library for Python. With Plotly, we developed the main interactions that are necessary to tell the story we are interested to transmit. The second objective of this project was to create a more pleasant experience for the user, and to improve the layout we used HTML, CSS and a framework from CSS called Bootstrap. In this way we achieved a better organization of our Dash App and the users can navigate through the sections like a normal web page
 </div>
 <br>
-<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/FFDash.jpg"/>
+<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/FFDash.JPG?raw=true"/>
 
 ---
-### Machine translation: A regression approach on the Most Recent Metrics for Machine Translation
+### Machine translation 
+A regression approach on the Most Recent Metrics for Machine Translation
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
 
@@ -81,7 +82,7 @@ As hobbies, I spend a lot of time playing football casually and competitively (W
 <div style="text-align: justify">The result showed that the ensemble modelling did show a significant improvement from the original scoring metrics. However performance and time constraint is still the problem with this approach 
 </div>
 <br>
-<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/TM.jpg"/>
+<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/TM.JPG?raw=true"/>
 
 ---
 ### Forecasting Cryptocurrency Prices Time Series
@@ -102,6 +103,6 @@ As hobbies, I spend a lot of time playing football casually and competitively (W
 <div style="text-align: justify">Project applied several approach such as RFM analysis and perfrom customer clustering with K-Mean. For the Cold-start problem: The top 10 best-selling products will be used to create a recommender system for new users. Fot the RecSystem, we applied collaborative filtering techniques by comparing different models Bayesian Personalized Ranking (BPR), Logistic Matrix Factorization (LMF), Alternative Least Square (ALS). The evaluation metrics used are <b>Precision at K</b> and <b>Hits rate</b>
 </div>
 <br>
-<center><img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/RS.jpg"/></center>
+<center><img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/RS.JPG?raw=true"/></center>
 ---
 <center>© 2021 Phuc Nguyen. Powered by Jekyll and the Minimal Theme.</center>
