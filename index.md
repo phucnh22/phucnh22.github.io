@@ -1,23 +1,25 @@
 # Portfolio
 
-# Table of contents
+
+### Table of contents
 
 | Projects      | Tag | Type     |
 | :---        |    :----:   |          ---: |
-| BI Digital Transformation | `BI`, `Data Engineering`       | Professional   |
-| Cryptocurrency forecasting | Title       | Here's this   |
-| Customer Segmentation for Marketing | Title       | Here's this   |
-| E-commerce Operations Dashboard | Title       | Here's this   |
-| FIFA Dashboard visualization | Title       | Here's this   |
-| Forecasting Model for multi-stores company | Title       | Here's this   |
-| Income prediction modelling | Title       | Here's this   |
-| Market Basket Analysis | Title       | Here's this   |
-| Metrics for Machine Translation | Title       | Here's this   |
-| Online shop database design  | Title       | Here's this   |
-| Operations excellence | Title       | Here's this   |
-| Recommendation system for Online Shopping | Title       | Here's this   |
-| Supply Chain KPIs & Dashboard design | Title       | Here's this   |      
+| BI Digital Transformation | `BI`, `DE`       | Professional   |
+| Cryptocurrency forecasting | `DL`       | Educational   |
+| Customer Segmentation for Marketing | `ML`       | Educational   |
+| E-commerce Operations Dashboard | `BI`, `DE`, `Visualization`       | Educational   |
+| FIFA Dashboard visualization | `Visualization`       | Educational   |
+| Forecasting Model for multi-stores company | `ML`, `MLOps`  | Educational  |
+| Income prediction modelling | `ML` | Educational   |
+| Market Basket Analysis | `ML`, `MLOps` | Educational   |
+| Metrics for Machine Translation | `DL`, `NLP`      | Educational   |
+| Online shop database design  | `DE` | Educational   |
+| Supply Chain Operations excellence | `Management`, `SCM` | Professional   |
+| Recommendation system for Online Shopping | `ML` | Educational   |
+| Supply Chain KPIs & Dashboard design | `Management`, `BI`, `Visualization`| Professional   |      
 
+ <font size="1"> (*) Abbreviation: BI: Business Intelligence | DE: Data Engineering | DL: Deep Learning | ML: Machine Learning | NLP: Natural Language Processing | SCM: Supply Chain Management </font> 
 ---
 ## Machine Learning
 ---
@@ -32,7 +34,7 @@
 <div style="text-align: justify">The project objective is to explore the famous dataset Instacart. First we did Exploratory Data Analysis with different aspect such as buying patterns by product, hour of day, day of week and product category. The insights gathered from the analysis are then utilized to build the Apriori algorithm with 2 different approach: inter-department and intra-department to predict the basket of the customer</div><br>
 <div style="text-align: justify">Finally, a dashboard combining the EDA and a recommendation system built from the result of the Apriori algorithm is deployed to help the business stakeholder develop their customer experience.</div>
 <br>
-<img src="images/MBA.jpg"/>
+<img src="https://github.com/phucnh22/phucnh22.github.io/tree/main/images/MBA.jpg"/>
 
 ---
 ### Predictive modeling
@@ -47,7 +49,7 @@
 
 <b>Keywords:</b> GLMM, Logistic Regression, Random Forest, Gradient Boosting, and Stacking classifier.
 <br>
-<img src="images/Predictive_modelling.jpg"/> 
+<img src="https://github.com/phucnh22/phucnh22.github.io/tree/main/images/Predictive_modelling.jpg"/> 
 
 ---
 
@@ -62,7 +64,7 @@
 <div style="text-align: justify">The dashboard was created with Plotly, an interactive graphing library for Python. With Plotly, we developed the main interactions that are necessary to tell the story we are interested to transmit. The second objective of this project was to create a more pleasant experience for the user, and to improve the layout we used HTML, CSS and a framework from CSS called Bootstrap. In this way we achieved a better organization of our Dash App and the users can navigate through the sections like a normal web page
 </div>
 <br>
-<img src="images/FFDash.jpg"/>
+<img src="https://github.com/phucnh22/phucnh22.github.io/tree/main/images/FFDash.jpg"/>
 
 ---
 ### Machine translation: A regression approach on the Most Recent Metrics for Machine Translation
@@ -73,7 +75,7 @@
 <div style="text-align: justify">The result showed that the ensemble modelling did show a significant improvement from the original scoring metrics. However performance and time constraint is still the problem with this approach 
 </div>
 <br>
-<img src="images/TM.jpg"/>
+<img src="https://github.com/phucnh22/phucnh22.github.io/tree/main/images/TM.jpg"/>
 
 ---
 ### Forecasting Cryptocurrency Prices Time Series
@@ -84,7 +86,7 @@
 <div style="text-align: justify">The project is to build and benchmark predictive models  for timeseries forecasting using deep neural networks: LSTM, GRU and Bi-LSTM. We tested the models with basic L1 regularization, grid-search for hyper-parameter tunning and using RMSE for models validation. Finally, we compared the result of uni-variate and multi-variate timeseries forecasting
 </div>
 <br>
-<img src="images/DL.jpg"/> 
+<img src="https://github.com/phucnh22/phucnh22.github.io/tree/main/images/DL.jpg"/> 
 ---
 ### Introduction to Recommendation system
 
@@ -94,6 +96,6 @@
 <div style="text-align: justify">Project applied several approach such as RFM analysis and perfrom customer clustering with K-Mean. For the Cold-start problem: The top 10 best-selling products will be used to create a recommender system for new users. Fot the RecSystem, we applied collaborative filtering techniques by comparing different models Bayesian Personalized Ranking (BPR), Logistic Matrix Factorization (LMF), Alternative Least Square (ALS). The evaluation metrics used are <b>Precision at K</b> and <b>Hits rate</b>
 </div>
 <br>
-<center><img src="images/RS.jpg"/></center>
+<center><img src="https://github.com/phucnh22/phucnh22.github.io/tree/main/images/RS.jpg"/></center>
 ---
 <center>© 2021 Phuc Nguyen. Powered by Jekyll and the Minimal Theme.</center>
