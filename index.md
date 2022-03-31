@@ -12,17 +12,17 @@ As hobbies, I spend a lot of time playing football casually and competitively (W
 | Projects      | Tag | Type     |
 | :---        |    :----:   |          ---: |
 | BI Digital Transformation | `BI`, `DE`       | Professional   |
-| [Cryptocurrency forecasting](Forecasting-Cryptocurrency-Prices-Time-Series) | `DL`       | Educational   |
+| [Cryptocurrency forecasting](#forecasting-cryptocurrency-prices-time-series) | `DL`       | Educational   |
 | Customer Segmentation for Marketing | `ML`       | Educational   |
 | E-commerce Operations Dashboard | `BI`, `DE`, `Visualization`       | Educational   |
-| [FIFA Dashboard visualization](Visualization:-FOOTBALL-GENERATIONS-IN-COMPARISION) | `Visualization`       | Educational   |
+| [FIFA Dashboard visualization](#visualization--football-generations-in-comparision) | `Visualization`       | Educational   |
 | Forecasting Model for multi-stores company | `ML`, `MLOps`  | Educational  |
-| [Income prediction modelling](Predictive-modeling) | `ML` | Educational   |
-| [Market Basket Analysis](Market-Basket-Analysis:-THE-FAMOUS-INSTACART-PROBLEM) | `ML`, `MLOps` | Educational   |
-| [Metrics for Machine Translation](Machine-translation) | `DL`, `NLP`      | Educational   |
+| [Income prediction modelling](#predictive-modeling) | `ML` | Educational   |
+| [Market Basket Analysis](#market-basket-analysis--the-famous-instacart-problem) | `ML`, `MLOps` | Educational   |
+| [Metrics for Machine Translation](#machine-learning) | `DL`, `NLP`      | Educational   |
 | Online shop database design  | `DE` | Educational   |
 | Supply Chain Operations excellence | `Management`, `SCM` | Professional   |
-| Recommendation system for Online Shopping | `ML` | Educational   |
+| [Recommendation system for Online Shopping](#introduction-to-recommendation-system) | `ML` | Educational   |
 | Supply Chain KPIs & Dashboard design | `Management`, `BI`, `Visualization`| Professional   |      
 
  <font size="1"> (*) Abbreviation: BI: Business Intelligence | DE: Data Engineering | DL: Deep Learning | ML: Machine Learning | NLP: Natural Language Processing | SCM: Supply Chain Management </font> 
@@ -93,7 +93,7 @@ A regression approach on the Most Recent Metrics for Machine Translation
 <div style="text-align: justify">The project is to build and benchmark predictive models  for timeseries forecasting using deep neural networks: LSTM, GRU and Bi-LSTM. We tested the models with basic L1 regularization, grid-search for hyper-parameter tunning and using RMSE for models validation. Finally, we compared the result of uni-variate and multi-variate timeseries forecasting
 </div>
 <br>
-<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/DL.jpg"/> 
+<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/DL.JPG?raw=true"/> 
 ---
 ### Introduction to Recommendation system
 
