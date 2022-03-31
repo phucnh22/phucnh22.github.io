@@ -55,7 +55,7 @@ As hobbies, I spend a lot of time playing football casually and competitively (W
 
 <b>Keywords:</b> GLMM, Logistic Regression, Random Forest, Gradient Boosting, and Stacking classifier.
 <br>
-<img src="https://github.com/phucnh22/phucnh22.github.io/tree/main/images/Predictive_modelling.jpg"/> 
+<img src="assets/images/Predictive_modelling.jpg"/> 
 
 ---
 
