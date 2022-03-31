@@ -1,7 +1,13 @@
 # Portfolio
+Hello,
 
+I'm Phuc, or Patrick, borned and raised in a beautiful town in the middle of Vietnam, an engineer currently pursuing a Master Degree in Data Science, a data analyst enthusiast with a strong business sense. I thrive on digging into complex business problems, producing insightful, strategic recommendations, and implementing data-driven solutions.
 
-### Table of contents
+As hobbies, I spend a lot of time playing football casually and competitively (Wing-back). I am also a gaming nerd (FIFA and CS:GO)
+
+...
+
+### Projects list
 
 | Projects      | Tag | Type     |
 | :---        |    :----:   |          ---: |
@@ -34,7 +40,7 @@
 <div style="text-align: justify">The project objective is to explore the famous dataset Instacart. First we did Exploratory Data Analysis with different aspect such as buying patterns by product, hour of day, day of week and product category. The insights gathered from the analysis are then utilized to build the Apriori algorithm with 2 different approach: inter-department and intra-department to predict the basket of the customer</div><br>
 <div style="text-align: justify">Finally, a dashboard combining the EDA and a recommendation system built from the result of the Apriori algorithm is deployed to help the business stakeholder develop their customer experience.</div>
 <br>
-<img src="https://github.com/phucnh22/phucnh22.github.io/tree/main/images/MBA.jpg"/>
+<img src="/phucnh22.github.io/assets/images/MBA.jpg"/>
 
 ---
 ### Predictive modeling
