@@ -1,4 +1,23 @@
 # Portfolio
+
+# Table of contents
+
+| Projects      | Tag | Type     |
+| :---        |    :----:   |          ---: |
+| BI Digital Transformation | `BI`, `Data Engineering`       | Professional   |
+| Cryptocurrency forecasting | Title       | Here's this   |
+| Customer Segmentation for Marketing | Title       | Here's this   |
+| E-commerce Operations Dashboard | Title       | Here's this   |
+| FIFA Dashboard visualization | Title       | Here's this   |
+| Forecasting Model for multi-stores company | Title       | Here's this   |
+| Income prediction modelling | Title       | Here's this   |
+| Market Basket Analysis | Title       | Here's this   |
+| Metrics for Machine Translation | Title       | Here's this   |
+| Online shop database design  | Title       | Here's this   |
+| Operations excellence | Title       | Here's this   |
+| Recommendation system for Online Shopping | Title       | Here's this   |
+| Supply Chain KPIs & Dashboard design | Title       | Here's this   |      
+
 ---
 ## Machine Learning
 ---
