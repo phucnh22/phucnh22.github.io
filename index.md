@@ -11,14 +11,14 @@ Updating ...
 
 | Projects      | Tag | Type     |
 | :---        |    :----:   |          ---: |
-| BI Digital Transformation | `BI`, `DE`       | Professional   |
-| [Cryptocurrency forecasting](#forecasting-cryptocurrency-prices-time-series) | `DL`       | Educational   |
-| Customer Segmentation for Marketing | `ML`       | Educational   |
+| BI Digital Transformation | `BI`, `DE` | Professional   |
+| [Cryptocurrency forecasting](#forecasting-cryptocurrency-prices-time-series) | `DL`   | Educational   |
+| [Customer Segmentation for Marketing](#customer-segmentation-for-marketing) | `ML`       | Educational   |
 | E-commerce Operations Dashboard | `BI`, `DE`, `Visualization`       | Educational   |
-| [FIFA Dashboard visualization](#visualization--football-generations-in-comparision) | `Visualization`       | Educational   |
+| [FIFA Dashboard visualization](#football-generations-in-comparision) | `Visualization`  | Educational   |
 | Forecasting Model for multi-stores company | `ML`, `MLOps`  | Educational  |
 | [Income prediction modelling](#predictive-modeling) | `ML` | Educational   |
-| [Market Basket Analysis](#market-basket-analysis--the-famous-instacart-problem) | `ML`, `MLOps` | Educational   |
+| [Market Basket Analysis](#market-basket-analysis) | `ML`, `MLOps` | Educational   |
 | [Metrics for Machine Translation](#machine-learning) | `DL`, `NLP`      | Educational   |
 | Online shop database design  | `DE` | Educational   |
 | Supply Chain Operations excellence | `Management`, `SCM` | Professional   |
@@ -29,7 +29,40 @@ Updating ...
 ---
 ---
 
-## Market Basket Analysis: THE FAMOUS INSTACART PROBLEM
+## Customer Segmentation for Marketing
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/phucnh22/DataMining_Project)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/phucnh22/DataMining_Project/blob/main/DM_Project_Final_Notebook.ipynb)
+[![Open Report](https://img.shields.io/badge/PDF-Open_Report-blue?logo=AdobeAcrobatReader)](https://drive.google.com/file/d/1GbhEMPuYotSdYySrtCWUw0XplqwiyL5l/view)
+
+<div style="text-align: justify"> This is a data mining project with objective of developing a customer segmentation strategy for the Paralyzed Veterans of America (PVA). Using a dataset provided by this non-profit organization, our main goal was to better understand how their donors behave and identify the different segments of donors/potential donors within their database.
+</div><br>
+<div style="text-align: justify">This analysis was only possible with the help of preprocessing techniques and clustering models learnt during the semester to help us adquire a better business understanding of this sector and group donors by their behaviour, getting some insights about the best approach to maximize the donation's amount and the best customer description.
+</div><br>
+
+<div style="text-align: justify">Finally we explained the clusters we created and we made a detailed marketing idea for each one.</div>
+<br>
+<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/data-mining.JPG?raw=true"/>
+
+---
+
+## E-commerce Operations Dashboard  
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/phucnh22/BI_Project_SCM)
+[![Power BI Dashboard](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://app.powerbi.com/view?r=eyJrIjoiNmJhZWMwNmEtYjI0OS00ZGQ3LTg3ZmItMjZlYjA1ZDJiOTBmIiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9)
+[![Open Report](https://img.shields.io/badge/PDF-Open_Report-blue?logo=AdobeAcrobatReader)](https://github.com/phucnh22/phucnh22.github.io/blob/main/pdf/BI_Report.pdf)
+
+<div style="text-align: justify"> We designed and implemented a dashboard that support both Management and Operational analytics and decision-making. The project deployed a streamlined data integration, transformation and modelling process with advanced analytics features and storytelling techniques.
+</div><br>
+<div style="text-align: justify">This project is meant to reinforce the conceptual knowledge acquired throughout the course and deliver an end-to-end self-service BI solution to support the analytical capability of <b>Sales and Supply Chain Managenent<b>.
+</div><br>
+<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/BI.JPG?raw=true"/>
+--- 
+
+## Market Basket Analysis
+### THE FAMOUS INSTACART PROBLEM
+
+<br>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/phucnh22/bc3-market-basket-analysis)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/phucnh22/bc3-market-basket-analysis/blob/main/BC3_Notebook_GroupF.ipynb)
@@ -57,7 +90,7 @@ Updating ...
 
 ---
 
-## Visualization: FOOTBALL GENERATIONS IN COMPARISION
+## FOOTBALL GENERATIONS IN COMPARISION
 
 [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://fifagen.herokuapp.com/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/phucnh22/FIFADashboardVisualization)
