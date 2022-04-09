@@ -14,7 +14,7 @@ Updating ...
 | BI Digital Transformation | `BI`, `DE` | Professional   |
 | [Cryptocurrency forecasting](#forecasting-cryptocurrency-prices-time-series) | `DL`   | Educational   |
 | [Customer Segmentation for Marketing](#customer-segmentation-for-marketing) | `ML`       | Educational   |
-| E-commerce Operations Dashboard | `BI`, `DE`, `Visualization`       | Educational   |
+| [E-commerce Operations Dashboard](#ecommerce-operations-dashboard) | `BI`, `DE`, `Visualization`       | Educational   |
 | [FIFA Dashboard visualization](#football-generations-in-comparision) | `Visualization`  | Educational   |
 | Forecasting Model for multi-stores company | `ML`, `MLOps`  | Educational  |
 | [Income prediction modelling](#predictive-modeling) | `ML` | Educational   |
@@ -46,10 +46,10 @@ Updating ...
 
 ---
 
-## E-commerce Operations Dashboard  
+## Ecommerce Operations Dashboard  
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/phucnh22/BI_Project_SCM)
-[![Power BI Dashboard](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://app.powerbi.com/view?r=eyJrIjoiNmJhZWMwNmEtYjI0OS00ZGQ3LTg3ZmItMjZlYjA1ZDJiOTBmIiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9)
+[![Power BI Dashboard](https://img.shields.io/badge/PBI-Open_Dashboard-blue?logo=PowerBI)](https://app.powerbi.com/view?r=eyJrIjoiNmJhZWMwNmEtYjI0OS00ZGQ3LTg3ZmItMjZlYjA1ZDJiOTBmIiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9)
 [![Open Report](https://img.shields.io/badge/PDF-Open_Report-blue?logo=AdobeAcrobatReader)](https://github.com/phucnh22/phucnh22.github.io/blob/main/pdf/BI_Report.pdf)
 
 <div style="text-align: justify"> We designed and implemented a dashboard that support both Management and Operational analytics and decision-making. The project deployed a streamlined data integration, transformation and modelling process with advanced analytics features and storytelling techniques.
