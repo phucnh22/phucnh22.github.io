@@ -54,7 +54,7 @@ Updating ...
 
 <div style="text-align: justify"> We designed and implemented a dashboard that support both Management and Operational analytics and decision-making. The project deployed a streamlined data integration, transformation and modelling process with advanced analytics features and storytelling techniques.
 </div><br>
-<div style="text-align: justify">This project is meant to reinforce the conceptual knowledge acquired throughout the course and deliver an end-to-end self-service BI solution to support the analytical capability of <b>Sales and Supply Chain Managenent<b>.
+<div style="text-align: justify">This project is meant to reinforce the conceptual knowledge acquired throughout the course and deliver an end-to-end self-service BI solution to support the analytical capability of <b>Sales and Supply Chain Managenent</b>.
 </div><br>
 <img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/BI.JPG?raw=true"/>
 --- 
