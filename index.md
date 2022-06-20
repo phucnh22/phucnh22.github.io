@@ -1,7 +1,7 @@
 # Portfolio
 Hello,
 
-I'm Phuc, or Patrick, borned and raised in a beautiful town in the middle of Vietnam, an engineer currently pursuing a Master Degree in Data Science, a data analyst enthusiast with a strong business sense. I thrive on digging into complex business problems, producing insightful, strategic recommendations, and implementing data-driven solutions.
+I'm Phuc, or Patrick, born and raised in a beautiful town in the middle of Vietnam, an engineer currently pursuing a Master Degree in Data Science, a data analyst enthusiast with a strong business sense. I thrive on digging into complex business problems, producing insightful, strategic recommendations, and implementing data-driven solutions.
 
 As hobbies, I spend a lot of time playing football casually and competitively (Wing-back). I am also a gaming nerd (FIFA and CS:GO)
 
@@ -11,22 +11,58 @@ Updating ...
 
 | Projects      | Tag | Type     |
 | :---        |    :----:   |          ---: |
-| BI Digital Transformation | `BI`, `DE` | Professional   |
+| [BI Digital Transformation](#bi-digital-transformation) | `BI`, `DE` | Professional   |
+| [E-commerce Operations Dashboard](#ecommerce-operations-dashboard) | `BI`, `DE`, `Visualization`       | Educational   |
+| [Vessel Operations Dashboard](#vessel-operations-dashboard) | `BI`, `DE`, `Visualization`       | Educational   |
+| Supply Chain KPIs & Dashboard design | `Management`, `BI`, `Visualization`| Professional   |   
+| Supply Chain Operations excellence | `Management`, `SCM` | Professional   |
 | [Cryptocurrency forecasting](#forecasting-cryptocurrency-prices-time-series) | `DL`   | Educational   |
 | [Customer Segmentation for Marketing](#customer-segmentation-for-marketing) | `ML`       | Educational   |
-| [E-commerce Operations Dashboard](#ecommerce-operations-dashboard) | `BI`, `DE`, `Visualization`       | Educational   |
 | [FIFA Dashboard visualization](#football-generations-in-comparision) | `Visualization`  | Educational   |
 | Forecasting Model for multi-stores company | `ML`, `MLOps`  | Educational  |
 | [Income prediction modelling](#predictive-modeling) | `ML` | Educational   |
 | [Market Basket Analysis](#market-basket-analysis) | `ML`, `MLOps` | Educational   |
 | [Metrics for Machine Translation](#machine-learning) | `DL`, `NLP`      | Educational   |
 | Online shop database design  | `DE` | Educational   |
-| Supply Chain Operations excellence | `Management`, `SCM` | Professional   |
 | [Recommendation system for Online Shopping](#introduction-to-recommendation-system) | `ML` | Educational   |
-| Supply Chain KPIs & Dashboard design | `Management`, `BI`, `Visualization`| Professional   |      
 
- <font size="1"> (*) Abbreviation: BI: Business Intelligence | DE: Data Engineering | DL: Deep Learning | ML: Machine Learning | NLP: Natural Language Processing | SCM: Supply Chain Management </font> 
+
+ <font size="1"> (*) Abbreviation: BI: Business Intelligence | DE: Data Engineering | DL: Deep Learning | ML: Machine Learning | NLP: Natural Language Processing | SCM: Supply Chain Management </font>
 ---
+---
+## Ecommerce Operations Dashboard  
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/phucnh22/BI_Project_SCM)
+[![Power BI Dashboard](https://img.shields.io/badge/PBI-Open_Dashboard-blue?logo=PowerBI)](https://app.powerbi.com/view?r=eyJrIjoiNmJhZWMwNmEtYjI0OS00ZGQ3LTg3ZmItMjZlYjA1ZDJiOTBmIiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9)
+[![Open Report](https://img.shields.io/badge/PDF-Open_Report-blue?logo=AdobeAcrobatReader)](https://github.com/phucnh22/phucnh22.github.io/blob/main/pdf/BI_Report.pdf)
+
+<div style="text-align: justify"> We designed and implemented a dashboard that support both Management and Operational analytics and decision-making. The project deployed a streamlined data integration, transformation and modelling process with advanced analytics features and storytelling techniques.
+</div><br>
+<div style="text-align: justify">This project is meant to reinforce the conceptual knowledge acquired throughout the course and deliver an end-to-end self-service BI solution to support the analytical capability of <b>Sales and Supply Chain Management</b>.
+</div><br>
+<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/BI.JPG?raw=true"/>
+---
+
+## BI Digital Transformation  
+
+<div style="text-align: justify"> A digital transformation project aimed to improve decision making and synchronized data source for a large steel manufacturer in Vietnam.
+</div><br>
+Key tasks:
+- Worked as a management consultant to conduct interviews, identify key metrics and performance indicators for the whole supply chain of the client.
+- Collaborated with data engineers to collect data, design data model and data warehouse.
+- Designed KPIs Dashboards for Procurement, Manufacturing and Project Management departments
+
+<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/DD.jpg?raw=true"/>
+---
+## Vessel Operations Dashboard  
+
+[![Power BI Dashboard](https://img.shields.io/badge/PBI-Open_Dashboard-blue?logo=PowerBI)](https://app.powerbi.com/view?r=eyJrIjoiOGJiOWU4YTItYWE0Mi00ZWIwLThjZmEtNGMzNTM4YjI3YmZjIiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9)
+
+<div style="text-align: justify"> This is an educational project aimed to design and implement a dashboard that support vessel operations management. The operations including Operation time, Summary of trips, Timeline of each vessel, Emission report.
+</div><br>
+
+<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/vessel.jpg?raw=true"/>
+
 ---
 
 ## Customer Segmentation for Marketing
@@ -45,19 +81,6 @@ Updating ...
 <img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/data-mining.JPG?raw=true"/>
 
 ---
-
-## Ecommerce Operations Dashboard  
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/phucnh22/BI_Project_SCM)
-[![Power BI Dashboard](https://img.shields.io/badge/PBI-Open_Dashboard-blue?logo=PowerBI)](https://app.powerbi.com/view?r=eyJrIjoiNmJhZWMwNmEtYjI0OS00ZGQ3LTg3ZmItMjZlYjA1ZDJiOTBmIiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9)
-[![Open Report](https://img.shields.io/badge/PDF-Open_Report-blue?logo=AdobeAcrobatReader)](https://github.com/phucnh22/phucnh22.github.io/blob/main/pdf/BI_Report.pdf)
-
-<div style="text-align: justify"> We designed and implemented a dashboard that support both Management and Operational analytics and decision-making. The project deployed a streamlined data integration, transformation and modelling process with advanced analytics features and storytelling techniques.
-</div><br>
-<div style="text-align: justify">This project is meant to reinforce the conceptual knowledge acquired throughout the course and deliver an end-to-end self-service BI solution to support the analytical capability of <b>Sales and Supply Chain Managenent</b>.
-</div><br>
-<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/BI.JPG?raw=true"/>
---- 
 
 ## Market Basket Analysis
 ### THE FAMOUS INSTACART PROBLEM
@@ -86,7 +109,7 @@ Updating ...
 
 <b>Keywords:</b> GLMM, Logistic Regression, Random Forest, Gradient Boosting, and Stacking classifier.
 <br>
-<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/Predictive_modelling.JPG?raw=true"/> 
+<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/Predictive_modelling.JPG?raw=true"/>
 
 ---
 
@@ -104,14 +127,14 @@ Updating ...
 <img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/FFDash.JPG?raw=true"/>
 
 ---
-## Machine translation 
+## Machine translation
 A regression approach on the Most Recent Metrics for Machine Translation
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/phucnh22/text-mining-project)
 [![Open Report](https://img.shields.io/badge/PDF-Open_Report-blue?logo=AdobeAcrobatReader)](https://github.com/phucnh22/phucnh22.github.io/blob/main/pdf/TextMining_Report.pdf)
 
 <div style="text-align: justify">The purpose of this project is to create a metric that best correlates with human assessments of  machine translation quality. We tried different available scoring metrics such as ROUGE, BLUE, BLUERT (most advanced metrics) with different n-grams setting. Finally, an ensemble approach was used as the scores generated from the metrics are used as features for a regressor (Gradient Boosting ModelS) to finally predict the score</div><br>
-<div style="text-align: justify">The result showed that the ensemble modelling did show a significant improvement from the original scoring metrics. However performance and time constraint is still the problem with this approach 
+<div style="text-align: justify">The result showed that the ensemble modelling did show a significant improvement from the original scoring metrics. However performance and time constraint is still the problem with this approach
 </div>
 <br>
 <img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/TM.JPG?raw=true"/>
@@ -125,7 +148,7 @@ A regression approach on the Most Recent Metrics for Machine Translation
 <div style="text-align: justify">The project is to build and benchmark predictive models  for timeseries forecasting using deep neural networks: LSTM, GRU and Bi-LSTM. We tested the models with basic L1 regularization, grid-search for hyper-parameter tunning and using RMSE for models validation. Finally, we compared the result of uni-variate and multi-variate timeseries forecasting
 </div>
 <br>
-<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/DL.JPG?raw=true"/> 
+<img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/DL.JPG?raw=true"/>
 
 ---
 ## Introduction to Recommendation system
