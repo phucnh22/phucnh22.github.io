@@ -41,6 +41,7 @@ Updating ...
 <div style="text-align: justify">This project is meant to reinforce the conceptual knowledge acquired throughout the course and deliver an end-to-end self-service BI solution to support the analytical capability of <b>Sales and Supply Chain Management</b>.
 </div><br>
 <img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/BI.JPG?raw=true"/>
+
 ---
 
 ## BI Digital Transformation  
@@ -53,7 +54,9 @@ Key tasks:
 - Designed KPIs Dashboards for Procurement, Manufacturing and Project Management departments
 
 <img src="https://github.com/phucnh22/phucnh22.github.io/blob/main/images/DD.jpg?raw=true"/>
+
 ---
+
 ## Vessel Operations Dashboard  
 
 [![Power BI Dashboard](https://img.shields.io/badge/PBI-Open_Dashboard-blue?logo=PowerBI)](https://app.powerbi.com/view?r=eyJrIjoiOGJiOWU4YTItYWE0Mi00ZWIwLThjZmEtNGMzNTM4YjI3YmZjIiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9)
